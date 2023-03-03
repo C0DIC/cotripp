@@ -1,4 +1,4 @@
-# Cotripp
+# cotripp
 
 Translate your text and .txt files in terminal using LibreTranslate API
 
