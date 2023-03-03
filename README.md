@@ -56,7 +56,7 @@ curl-config --libs
 ## Building
 
 ``` text
-git clone
+git clone https://github.com/C0DIC/cotripp
 cd cotripp
 make
 ```
